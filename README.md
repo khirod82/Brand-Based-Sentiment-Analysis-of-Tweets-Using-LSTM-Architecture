@@ -1,7 +1,1 @@
-Model Performance:
-
-Training Accuracy: Reached 89.82% by the 5th epoch.
-
-Validation Accuracy: Achieved 83.47%, which suggests good generalization with minimal overfitting.
-
-Test Accuracy: Final model performance on unseen data is 83.12% with a loss of 0.4956, indicating a relatively strong predictive capability.
+The project titled "Brand-Based Sentiment Analysis of Tweets Using LSTM Neural Networks" aimed to classify user sentiments across various brands using deep learning techniques. An LSTM (Long Short-Term Memory) model was trained on preprocessed tweet data, achieving a promising training accuracy of 89.82% and a validation accuracy of 83.47%, indicating that the model learned the patterns in the training data well and generalized reasonably to unseen data. The final test accuracy was 83.12%, with a test loss of 0.4956, reflecting a satisfactory level of performance from the model in terms of predicting sentiment classes. 
